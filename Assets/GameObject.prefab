@@ -168,6 +168,11 @@ PrefabInstance:
       propertyPath: m_AdditionalShaderChannelsFlag
       value: 25
       objectReference: {fileID: 0}
+    - target: {fileID: 4411306653289732172, guid: 7c81d978a2e07aa4c97e2f4aecb0cad5,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4411306653289732174, guid: 7c81d978a2e07aa4c97e2f4aecb0cad5,
         type: 3}
       propertyPath: m_BlockingObjects
